@@ -1,0 +1,4 @@
+---
+defaultChannel: stable
+name: argocd-operator
+schema: olm.package
